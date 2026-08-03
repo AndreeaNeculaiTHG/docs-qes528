@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-m5uj0h.assetshst.online/sitemap.xml
